@@ -9,7 +9,6 @@ Lanjutan belajar vue, kali ini pake laravel 5.3 buat backend restful api nya.
 ```bash
 $ composer install
 ```
-4. Jalankan
 ```bash
 $ php artisan migrate
 ```
